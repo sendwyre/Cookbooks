@@ -246,7 +246,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"dest\": \"wallet:{{walletId}}\",\r\n    \"source\": \"account:{{accountId}}\",\r\n    \"autoConfirm\": true,\r\n    \"sourceCurrency\": \"USD\",\r\n    \"destCurrency\": \"USD\",\r\n    \"destAmount\": \"10\"\r\n}\r\n"
+					"raw": "{\r\n    \"dest\": \"wallet:{{walletId}}\",\r\n    \"source\": \"account:{{ACCOUNT_ID}}\",\r\n    \"autoConfirm\": true,\r\n    \"sourceCurrency\": \"USD\",\r\n    \"destCurrency\": \"USD\",\r\n    \"destAmount\": \"10\"\r\n}\r\n"
 				},
 				"url": {
 					"raw": "{{api_base_url}}/v3/transfers",
