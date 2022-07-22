@@ -9,3 +9,4 @@ To get started, download this repo and import the Cookbooks you'll need to Postm
 | WYRE_TOKEN                    | Your Secret Token                          | 
 | api_base_url                  | https://api.testwyre.com 
 | | https://api.sendwyre.com |
+| ACCOUNT_ID                    | Your Wyre Account Id                       |
