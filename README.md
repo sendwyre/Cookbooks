@@ -1,7 +1,7 @@
 # Cookbooks
 
 ## Environment
-To get started, download this repo and upload the Cookbooks you'll need to Postman.
+To get started, download this repo and import the Cookbooks you'll need to Postman.
 
 ### Environment Variables
 | **Environment Variable Name** | **Environment Variable Value**             |
